@@ -35,11 +35,11 @@ except:
 
 ## The usage of this code and the sample output is provided below.
 
-- ubuntu@ip-172-31-22-203:~$ python3 location.py -i 8.8.8.8 -k 604a43d7a0a1971161d9a6da7194a3c2
+- ubuntu@ip-172-**** python3 location.py -i 8.8.8.8 -k 604a43d7a0a1971161d9a6da7194a3c2
 The provided IP is 8.8.8.8 and the location is :United States US
 
-- ubuntu@ip-172-31-22-203:~$ python3 location.py -i 1.2.3.4 -k 604a43d7a0a1971161d9a6da7194a3c2
+- ubuntu@ip-172-****:~$ python3 location.py -i 1.2.3.4 -k 604a43d7a0a1971161d9a6da7194a3c2
 The provided IP is 1.2.3.4 and the location is :United States US
 
-- ubuntu@ip-172-31-22-203:~$ python3 location.py -i 192.168.1.1 -k 604a43d7a0a1971161d9a6da7194a3c2
+- ubuntu@ip-172-****:~$ python3 location.py -i 192.168.1.1 -k 604a43d7a0a1971161d9a6da7194a3c2
 Please enter the valid credentials
